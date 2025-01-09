@@ -1,2 +1,0 @@
-# TFGNico
-Datos TFG Alzheimer
